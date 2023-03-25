@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Python, Machine Learning**
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, REACT**
 
 - 📫 How to reach me **aamirindi@gmail.com**
 
