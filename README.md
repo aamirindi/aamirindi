@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*aMOZ578-yNodBhdisfYGWQ.gif)](#)
-<h1 align="center">Hi 👋, I'm Aamir Indi</h1>
+<h1 align="center">Hi 👋, I'm Mohd Aamir Indi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
