@@ -2,7 +2,7 @@
 <div>
 
 <!-- Left Column -->
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 50%; border: 2px solid red">
 
 # Hi 👋, I'm Mohd Aamir Indi
 ### A passionate developer from India
