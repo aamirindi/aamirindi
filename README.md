@@ -3,12 +3,10 @@
 <h3 align="center" style="font-family: 'Poppins', sans-serif;">A passionate frontend developer from India</h3>
 
 
-
-<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirindi&langs_count=8)
- 
+
+<p align="right"> 
+
 - 🌱 I’m currently learning **Angular, Python, Machine Learning**
 
 - 💬 Ask me about **REACT, HTML, CSS, JS**
@@ -16,6 +14,8 @@
 - 📫 How to reach me **aamirindi@gmail.com**
 
 - ⚡ Fun fact **I Love doing Calisthenics**
+
+</p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
