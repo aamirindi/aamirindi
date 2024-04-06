@@ -1,24 +1,21 @@
-# Hi 👋, I'm Mohd Aamir Indi
-### A passionate developer from India
-
-
-<p align="right">
-
-- 🌱 I’m currently learning **Angular, Python, Machine Learning**<br>
-- 💬 Ask me about **REACT, HTML, CSS, JS**<br>
-- 📫 How to reach me **aamirindi@gmail.com**<br>
-- ⚡ Fun fact **I Love doing Calisthenics**<br>
-
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aamir indi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir indi" height="30" width="40" /></a>
-<a href="https://instagram.com/aaaa_miir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaa_miir" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<table>
+    <tr>
+        <td valign="top">
+            <h1>Hi 👋, I'm Mohd Aamir Indi</h1>
+            <h3>A passionate developer from India</h3>
+            <p>
+                - 🌱 I’m currently learning <strong>Angular, Python, Machine Learning</strong><br>
+                - 💬 Ask me about <strong>REACT, HTML, CSS, JS</strong><br>
+                - 📫 How to reach me <strong>aamirindi@gmail.com</strong><br>
+                - ⚡ Fun fact <strong>I Love doing Calisthenics</strong>
+            </p>
+            <h3>Connect with me:</h3>
+            <p>
+                <a href="https://linkedin.com/in/aamirindi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
+                <a href="https://instagram.com/aaaa_miir" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
+            </p>
+            <h3>Languages and Tools:</h3>
+           <p align="left">
 <!--   html -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <!--   css -->
@@ -42,13 +39,12 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Photoshop_Touch_Logo.png" alt="photoshop" width="40" height="40"/> </a>
 </p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirindi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
+        </td>
+        <td valign="top">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirindi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+        </td>
+    </tr>
+</table>
 
 
 
