@@ -1,4 +1,4 @@
-<table>
+<table style="pointer-events: none;">
     <tr>
         <td valign="top">
             <h1>Hi 👋, I'm Mohd Aamir Indi</h1>
