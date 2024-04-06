@@ -25,7 +25,7 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Photoshop_Touch_Logo.png" alt="photoshop" width="40" height="40"/> </a></p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirindi&langs_count=8)
 
 
 
