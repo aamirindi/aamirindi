@@ -4,8 +4,11 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirindi&langs_count=8)
+ 
 - 🌱 I’m currently learning **Angular, Python, Machine Learning**
 
 - 💬 Ask me about **REACT, HTML, CSS, JS**
@@ -25,7 +28,7 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Photoshop_Touch_Logo.png" alt="photoshop" width="40" height="40"/> </a></p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirindi&langs_count=8)
+
 
 
 
