@@ -2,10 +2,10 @@
 <div>
 
 <!-- Left Column -->
-<div style="float: left; width: 100%;">
+<div style="float: left; width: 50%;">
 
 # Hi 👋, I'm Mohd Aamir Indi
-### A passionate frontend developer from India
+### A passionate developer from India
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirindi&langs_count=8)
 
