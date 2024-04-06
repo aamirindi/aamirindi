@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*aMOZ578-yNodBhdisfYGWQ.gif)](#)
+
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm Mohd Aamir Indi</h1>
 <h3 align="center" style="font-family: 'Poppins', sans-serif;">A passionate frontend developer from India</h3>
 
