@@ -1,9 +1,3 @@
-<!-- Two-column layout -->
-<div style="display: flex">
-
-<!-- Left Column -->
-<div style="float: left; width: 50%;">
-
 # Hi 👋, I'm Mohd Aamir Indi
 ### A passionate developer from India
 
@@ -17,8 +11,8 @@
 
 </p>
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/aamir indi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir indi" height="30" width="40" /></a>
 <a href="https://instagram.com/aaaa_miir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaa_miir" height="30" width="40" /></a>
 </p>
@@ -49,17 +43,9 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Photoshop_Touch_Logo.png" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-
-</div>
-
-<!-- Right Column -->
-<div style="float: right; width: 50%;">
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirindi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
 
-</div>
 
 
 
