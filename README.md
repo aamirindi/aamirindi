@@ -4,8 +4,7 @@
             <h1>Hi 👋, I'm Mohd Aamir Indi</h1>
             <h3>A passionate developer from India</h3>
             <p>
-                - 🌱 I’m currently learning <strong>Angular, Python, Machine Learning</strong><br>
-                - 💬 Ask me about <strong>REACT, HTML, CSS, JS</strong><br>
+                - 💬 Ask me about <strong>JAVA, SPRING, SPRING BOOT, SQL, REACT, ANGULAR, HTML, CSS, JS</strong><br>
                 - 📫 How to reach me <strong>aamirindi@gmail.com</strong><br>
                 - ⚡ Fun fact <strong>I Love doing Calisthenics</strong>
             </p>
