@@ -17,7 +17,7 @@
             <p align="left">
                 <!-- Backend Technologies -->
                 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-                <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/90519/spring-boot](https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="spring" width="40" height="40"/> </a>
+                <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png?20230616230349" alt="spring" width="40" height="40"/> </a>
                 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a>
                 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
                 <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" alt="dotnet-core" width="40" height="40"/> </a>
